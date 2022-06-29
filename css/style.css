@@ -1,6 +1,9 @@
-  body {
-    background: url(../css/pngtree-hand-drawn-math-calculator-ruler-school-supplies-border-element-png-image_5569722.jpg)no-repeat center/100% 100% center;
-    color: black
+ body {
+    background: url(../css/pngtree-hand-drawn-math-calculator-ruler-school-supplies-border-element-png-image_5569722.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    height: 100vh;
   }
 h1 {
       width: 25%;
